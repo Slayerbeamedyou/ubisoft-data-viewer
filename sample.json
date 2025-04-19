@@ -1,0 +1,16 @@
+{
+  "core": {
+    "name": "Aristotelis Beihammer",
+    "email": "suleiman@example.com",
+    "username": "xxSuleimanxx",
+    "country": "GB",
+    "member_since": "2015-12-01"
+  },
+  "2fa": "Enabled",
+  "friends": ["AlphaWolf", "GhostReaper", "LunaSky"],
+  "transactions": [
+    { "date": "2022-08-12", "item": "Assassin's Creed Valhalla", "amount": "$59.99" },
+    { "date": "2023-03-22", "item": "Rainbow Six Credits", "amount": "$19.99" }
+  ],
+  "trusted_devices": ["iPhone 13 Pro", "Windows PC", "PlayStation 5"]
+}
